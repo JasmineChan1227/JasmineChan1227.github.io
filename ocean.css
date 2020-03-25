@@ -1,0 +1,38 @@
+.ocean{
+    border:1px dotted #EEE;
+    border-radius: 6px;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right:auto;
+    background-color: antiquewhite;
+    padding:1px 6px ;
+    width: 90%;
+    height:200px;
+}
+.sea{
+    display: block;
+    width:80%;
+    height:25px;
+    margin: 5%;
+}
+.jack {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.dahai{
+    background-color:darkblue !important;
+}
+.swiper-container {
+    margin-top: 20%;
+    margin-left: auto;
+    margin-right:auto;
+    width: 90%;
+}  
+/* .swiper-wrapper,.swiper-slide{
+    width: 100%;
+} */
+.swiper-container img{
+    width:100%;
+    display:block;
+}
